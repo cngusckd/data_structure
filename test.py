@@ -1,0 +1,3 @@
+import tree
+
+tr = tree()

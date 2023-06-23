@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "LinkedQueue",
+      "request": "launch",
+      "mainClass": "LinkedQueue",
+      "projectName": "AI_data_structure_1a278557"
+    },
+    {
+      "type": "java",
+      "name": "LinkedStack",
+      "request": "launch",
+      "mainClass": "LinkedStack",
+      "projectName": "AI_data_structure_1a278557"
+    },
+    {
+      "type": "java",
+      "name": "helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "AI_data_structure_1a278557"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/cngus/Desktop/VSCODE/AI_data_structure",
+      "program": "c:/Users/cngus/Desktop/VSCODE/AI_data_structure/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
